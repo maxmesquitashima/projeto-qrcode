@@ -32,7 +32,7 @@ O projeto foi construído utilizando as seguintes tecnologias e conceitos:
 Para personalizar o gerador de senhas, crie um arquivo `.env` na raiz do projeto conforme o modelo abaixo:
 
 ```env
-PASSWORD_LENGTH=15
+PASSWORD_LENGTH=12
 UPPERCASE_LETTERS=true
 LOWERCASE_LETTERS=true
 NUMBERS=true
